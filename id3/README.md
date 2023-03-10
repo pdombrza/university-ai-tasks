@@ -16,7 +16,7 @@ For depths higher than 0, the accuracy was already close to
 the best achieved accuracy - this suggests that the first best
 attribute has a significant impact on predicting the outcome.
 For depths below 4 the model might be slighly underfit and for depths
-above 4 it may be slightly overfit.
+above 4 it may be slightly overfit. Final accuracy - around 72%.
 
 ## Aditional information
 The dataset is available [here](https://www.kaggle.com/datasets/bhadaneeraj/cardio-vascular-disease-detection).
