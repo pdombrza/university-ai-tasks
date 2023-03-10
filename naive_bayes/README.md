@@ -12,14 +12,14 @@ compared results.
 
 ### Whole dataset results
 <p style="text-align:center;">
-  <img src="plots/tts_accuracy.png" width="350" />
-  <img src="plots/kfold_accuracy.png" width="350" />
+  <img src="plots/tts_accuracy.png" width="500" />
+  <img src="plots/kfold_accuracy.png" width="500" />
 </p>
 
 ### Reduced dataset results
 <p style="text-align:center;">
-  <img src="plots/tts_reduced.png" width="350" />
-  <img src="plots/kfold_reduced.png" width="350" />
+  <img src="plots/tts_reduced.png" width="500" />
+  <img src="plots/kfold_reduced.png" width="500" />
 </p>
 
 Results were similar when trained on the entire dataset.
