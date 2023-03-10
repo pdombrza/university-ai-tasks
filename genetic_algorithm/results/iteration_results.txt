@@ -1,0 +1,36 @@
+Maximum iterations = 50
+1923
+1925
+1922
+1923
+1925
+Maximum iterations = 100
+1923
+1924
+1925
+1925
+1923
+Maximum iterations = 500
+1924
+1925
+1925
+1927
+1925
+Maximum iterations = 1000
+1927
+1926
+1926
+1927
+1927
+Maximum iterations = 2000
+1928
+1926
+1927
+1927
+1926
+Maximum iterations = 5000
+1927
+1930
+1926
+1928
+1926
