@@ -11,14 +11,14 @@ strategy produced similar results.
 
 #### Boltzmann strategy:
 <p style="text-align:center;">
-  <img src="plots/avg_rewards_boltzmann.png" width="300" />
-  <img src="plots/episode_lenghts_boltzmann.png" width="300" />
+  <img src="plots/avg_rewards_boltzmann.png" width="500" />
+  <img src="plots/episode_lenghts_boltzmann.png" width="500" />
 </p>
 
 #### Epsilon greedy strategy:
 <p style="text-align:center;">
-  <img src="plots/avg_rewards_epsilon.png" width="300" />
-  <img src="plots/episode_lenghts_epsilon.png" width="300" />
+  <img src="plots/avg_rewards_epsilon.png" width="500" />
+  <img src="plots/episode_lenghts_epsilon.png" width="500" />
 </p>
 
 ## Used libraries
