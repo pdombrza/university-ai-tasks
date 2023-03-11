@@ -7,6 +7,7 @@ neural network and train it on the MNIST dataset.
 We tested the accuracy for a 3 and 4 layered network setups as well
 as how the learning rate and epoch amount impacted the accuracy.
 We implemented the ReLU and the sigmoid activation functions.
+Best accuracy achieved was around 95%.
 
 ### Learning rate
 ![learning rate](plots/accuracy_learning_rate.png)
