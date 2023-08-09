@@ -1,5 +1,5 @@
 # university-ai-tasks
-Tasks from the ai course.
+Tasks from the introductory AI course.
 Each directory contains a different exercise.
 
 1. [Gradient descent](/gradient/)
